@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{20925579-7F6C-413B-B308-CDC9E112F594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{7CE98496-83C4-45F1-9AF9-8244727F78E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{7CE98496-83C4-45F1-9AF9-8244727F78E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsDemo", "GenericsDemo\GenericsDemo.csproj", "{DAC7DE6B-151F-4FEC-A40E-8A9925439784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7CE98496-83C4-45F1-9AF9-8244727F78E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE98496-83C4-45F1-9AF9-8244727F78E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE98496-83C4-45F1-9AF9-8244727F78E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC7DE6B-151F-4FEC-A40E-8A9925439784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC7DE6B-151F-4FEC-A40E-8A9925439784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC7DE6B-151F-4FEC-A40E-8A9925439784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC7DE6B-151F-4FEC-A40E-8A9925439784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
